@@ -1,6 +1,6 @@
 Implementeing our proprietery method of analogue oscillator analysis and profilling to produce a calibration aid for reliable and accurate analogue module calibration.
 
-Flas PS with the firmware connect to host pc and run app.
+Flash PS with the firmware connect to host pc and run app.
 
 Left hand button used for profiling, right hand for calculating target frequency.
 
